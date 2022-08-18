@@ -4,6 +4,8 @@ Community projects and related work
 
 ## Projects
 
-- [M3O Android](https://github.com/m3o/m3o-android) - Mobile app by [Cyb3rKo](https://github.com/cyb3rko)
-- [M3O Raycast](https://www.raycast.com/andreaselia/m3o) - Raycast extension by [andreaselia](https://github.com/andreaselia)
-- [M3O Client Gen](https://github.com/m3o/m3o-client-gen) - Client generator v2 by [lambdaR](https://github.com/lambdaR)
+Name | Description | Author
+| :--- | :--- | :---:
+| [M3O Android](https://github.com/m3o/m3o-android) | Mobile Android app | [Cyb3rKo](https://github.com/cyb3rko) |
+| [M3O Raycast](https://www.raycast.com/andreaselia/m3o) | Raycast extension | [andreaselia](https://github.com/andreaselia)
+| [M3O Client Gen](https://github.com/m3o/m3o-client-gen) | Client generator v2 | [lambdaR](https://github.com/lambdaR)
